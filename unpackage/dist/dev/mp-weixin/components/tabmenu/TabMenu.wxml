@@ -1,0 +1,1 @@
+<scroll-view class="scroll data-v-3839e8ee" scroll-y="true"><block wx:for="{{title}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['itemClick',[index]]]]]}}" class="{{['tabmenu-list-item data-v-3839e8ee',(index===currentIndex)?'active':'']}}" bindtap="__e"><view class="data-v-3839e8ee">{{item.title}}</view></view></block></scroll-view>

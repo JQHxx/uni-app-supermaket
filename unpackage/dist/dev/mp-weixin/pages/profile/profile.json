@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "uni-app商城",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}
